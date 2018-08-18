@@ -1,6 +1,6 @@
 # General Tensorflow Image Classifier
 
-
+Easily train to classify anything - I classified me, from wirey youth to beardy data scientist.
 
 ## Requirements
 
